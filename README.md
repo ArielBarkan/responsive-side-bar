@@ -2,6 +2,8 @@ Responsive side bar with scrolling content
 
 React + styled-components
 
+Demo https://responsive-side-bar.herokuapp.com/
+
 
 # Getting Started with Create React App
 
